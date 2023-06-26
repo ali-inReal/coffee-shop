@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+td,th{
+  padding: 10px;
+  text-align: center;
+}
